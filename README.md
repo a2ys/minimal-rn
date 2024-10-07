@@ -42,7 +42,7 @@ export default App;
 As of now, MinimalRN includes the following components:
 
 - Button
-  The button component is a simple button that can be customized with different colors and styles. Currently, it has two preconfigured styles: primary and outlined.
+  - The button component is a simple button that can be customized with different colors and styles. Currently, it has two preconfigured styles: primary and outlined.
 
 ## Development
 
@@ -70,4 +70,4 @@ For any inquiries or support, please contact [Aayush Shukla](mailto:me@a2ys.dev)
 
 ## Acknowledgments
 
-- Thanks to the [React Native](https://reactnative.dev/) community for their support and resources.
+Thanks to the [React Native](https://reactnative.dev/) community for their support and resources.
