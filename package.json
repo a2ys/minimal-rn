@@ -1,0 +1,31 @@
+{
+  "name": "minimal-rn",
+  "version": "0.0.1",
+  "description": "A set of minimal UI components, themed black and white, for the React Native Ecosystem.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a2ys/minimal-rn.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "ui",
+    "library",
+    "components",
+    "design",
+    "style",
+    "customizable",
+    "theming"
+  ],
+  "author": "a2ys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a2ys/minimal-rn/issues"
+  },
+  "homepage": "https://github.com/a2ys/minimal-rn#readme",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-native": "^0.75.4"
+  }
+}
