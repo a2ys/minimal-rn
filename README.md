@@ -7,13 +7,13 @@ MinimalRN is a collection of minimalistic React Native components that are easy 
 You can install the MinimalRN library using npm in your React Native project:
 
 ```bash
-npm install minimal-rn
+npm install @a2ys/minimal-rn
 ```
 
 or
 
 ```bash
-npm i minimal-rn
+npm i @a2ys/minimal-rn
 ```
 
 ## Usage

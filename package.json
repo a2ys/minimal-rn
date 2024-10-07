@@ -1,6 +1,6 @@
 {
-  "name": "minimal-rn",
-  "version": "0.0.2",
+  "name": "@a2ys/minimal-rn",
+  "version": "0.0.1",
   "description": "A set of minimal UI components, themed black and white, for the React Native Ecosystem.",
   "main": "index.js",
   "repository": {
@@ -27,5 +27,8 @@
   "peerDependencies": {
     "react": "^18.3.1",
     "react-native": "^0.75.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
