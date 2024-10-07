@@ -1,6 +1,6 @@
 {
   "name": "@a2ys/minimal-rn",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A set of minimal UI components, themed black and white, for the React Native Ecosystem.",
   "main": "index.js",
   "repository": {
